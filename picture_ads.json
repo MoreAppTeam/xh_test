@@ -1,0 +1,33 @@
+{
+    "status": 1,
+    "data": [
+        {
+            "type": "PICTURE",
+            "title": "ad1",
+            "description": "ad1",
+            "picURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/ad_1_normal.jpg",
+            "picMD5": "5a9262e7efac79cd1eaec970c672cb71f150f415"
+        },
+        {
+            "type": "WEB",
+            "title": "ad2",
+            "description": "ad2",
+            "picURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/ad_1_web.jpg",
+            "picMD5": "32e3ef9ef3d64cc31717d120291fb489dc085fe6"
+        },
+        {
+            "type": "APP",
+            "title": "ad3",
+            "description": "ad3",
+            "picURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/ad_1_app.jpg.jpg",
+            "picMD5": "4ccfcf27f60e9e66216f024b7177f52b32e526ac"
+        },
+        {
+            "type": "VIDEO",
+            "title": "ad4",
+            "description": "ad4",
+            "picURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/big_buck_bunny.mp4",
+            "picMD5": "0181d7880acf0c443a57cd2510a5b81447fa577e"
+        }
+    ]
+}
