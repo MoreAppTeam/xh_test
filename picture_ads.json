@@ -7,7 +7,7 @@
             "description": "ad1",
             "playTime": 10000,
             "picURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/ad_1_normal.jpg",
-            "picMD5": "5a9262e7efac79cd1eaec970c672cb71f150f415"
+            "picMD5": "9bd83cc4c6143bda617daae26ea66b77"
         },
         {
             "type": "WEB",
@@ -16,7 +16,7 @@
             "playTime": 20000,
             "clickURL": "www.baidu.com",
             "picURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/ad_1_web.jpg",
-            "picMD5": "32e3ef9ef3d64cc31717d120291fb489dc085fe6"
+            "picMD5": "a91ed8555a0d916e3452513faad31021"
         },
         {
             "type": "APP",
@@ -25,7 +25,7 @@
             "playTime": 30000,
             "appURL": "",
             "picURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/ad_1_app.jpg",
-            "picMD5": "4ccfcf27f60e9e66216f024b7177f52b32e526ac"
+            "picMD5": "12bef2e51ee0f50ce68074fc673eb140"
         },
         {
             "type": "VIDEO",
@@ -33,9 +33,9 @@
             "description": "ad4",
             "playTime": 40000,
             "picURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/ad_1_video.jpg",
-            "picMD5": "b25fdc4580585aaba9c4216be92a15e424433147",
+            "picMD5": "43656f296b4d273bb3c045c747b947da",
             "videoURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/big_buck_bunny.mp4",
-            "videoMD5": "0181d7880acf0c443a57cd2510a5b81447fa577e"
+            "videoMD5": "f13004eed4251c602bbe15737e8a1ecb"
         }
     ]
 }
