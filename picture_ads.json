@@ -13,7 +13,7 @@
             "type": "WEB",
             "title": "ad2",
             "description": "ad2",
-            "playTime": 20000,
+            "playTime": 10000,
             "clickURL": "www.baidu.com",
             "picURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/ad_1_web.jpg",
             "picMD5": "a91ed8555a0d916e3452513faad31021"
@@ -22,7 +22,7 @@
             "type": "APP",
             "title": "ad3",
             "description": "ad3",
-            "playTime": 30000,
+            "playTime": 10000,
             "appURL": "",
             "picURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/ad_1_app.jpg",
             "picMD5": "12bef2e51ee0f50ce68074fc673eb140"
@@ -31,7 +31,7 @@
             "type": "VIDEO",
             "title": "ad4",
             "description": "ad4",
-            "playTime": 40000,
+            "playTime": 10000,
             "picURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/ad_1_video.jpg",
             "picMD5": "43656f296b4d273bb3c045c747b947da",
             "videoURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/big_buck_bunny.mp4",
