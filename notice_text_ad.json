@@ -1,6 +1,6 @@
 {
     "status": 1,
-    "id": 1,
-    "playTime": 30000,
-    "content": "第一条字幕测试广告，id为1."
+    "id": 2,
+    "playTime": 300000,
+    "content": "第二条字幕测试广告，id为2."
 }
