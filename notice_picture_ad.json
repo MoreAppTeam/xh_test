@@ -1,7 +1,7 @@
 {
     "status": 1,
-    "id": 1,
+    "id": 2,
     "title": "第一条图片测试广告，id为1.",
-    "playTime": 10000,
+    "playTime": 30000,
     "picURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/notice_picture_ad1.jpg"
 }
