@@ -1,0 +1,62 @@
+{
+    "status": 1,
+    "position1": [
+        {
+            "type": "PICTURE",
+            "title": "ad1",
+            "description": "ad1",
+            "playTime": 10000,
+            "picURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/ad_1_normal.jpg",
+            "picMD5": "9bd83cc4c6143bda617daae26ea66b77"
+        },
+        {
+            "type": "WEB",
+            "title": "ad2",
+            "description": "ad2",
+            "playTime": 10000,
+            "clickURL": "www.baidu.com",
+            "picURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/ad_1_web.jpg",
+            "picMD5": "a91ed8555a0d916e3452513faad31021"
+        }
+    ],
+    "position2": [
+        {
+            "type": "PICTURE",
+            "title": "ad1",
+            "description": "ad1",
+            "playTime": 10000,
+            "picURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/ad_1_normal.jpg",
+            "picMD5": "9bd83cc4c6143bda617daae26ea66b77"
+        }
+    ],
+    "position3": [
+        {
+            "type": "PICTURE",
+            "title": "ad1",
+            "description": "ad1",
+            "playTime": 10000,
+            "picURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/ad_1_normal.jpg",
+            "picMD5": "9bd83cc4c6143bda617daae26ea66b77"
+        }
+    ],
+    "position4": [
+        {
+            "type": "PICTURE",
+            "title": "ad1",
+            "description": "ad1",
+            "playTime": 10000,
+            "picURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/ad_1_normal.jpg",
+            "picMD5": "9bd83cc4c6143bda617daae26ea66b77"
+        }
+    ],
+    "position5": [
+        {
+            "type": "PICTURE",
+            "title": "ad1",
+            "description": "ad1",
+            "playTime": 10000,
+            "picURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/ad_1_normal.jpg",
+            "picMD5": "9bd83cc4c6143bda617daae26ea66b77"
+        }
+    ]
+}
