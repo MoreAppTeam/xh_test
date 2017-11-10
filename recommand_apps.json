@@ -2,61 +2,48 @@
     "status": 1,
     "position1": [
         {
-            "type": "PICTURE",
-            "title": "ad1",
-            "description": "ad1",
-            "playTime": 10000,
-            "picURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/ad_1_normal.jpg",
-            "picMD5": "9bd83cc4c6143bda617daae26ea66b77"
-        },
-        {
-            "type": "WEB",
-            "title": "ad2",
-            "description": "ad2",
-            "playTime": 10000,
-            "clickURL": "www.baidu.com",
-            "picURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/ad_1_web.jpg",
-            "picMD5": "a91ed8555a0d916e3452513faad31021"
+            "title": "直播",
+            "iconURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/apps/ic_launcher_xh_tv.png",
+            "packageName": "com.morequick.morequicktv",
+            "apkURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/apps/com.morequick.morequicktv-1.apk",
+            "apkMD5": ""
         }
     ],
     "position2": [
         {
-            "type": "PICTURE",
-            "title": "ad1",
-            "description": "ad1",
-            "playTime": 10000,
-            "picURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/ad_1_normal.jpg",
-            "picMD5": "9bd83cc4c6143bda617daae26ea66b77"
+            "title": "爱奇艺",
+            "iconURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/apps/ic_launcher_aiqiyi.png",
+            "packageName": "com.gitvdemo.video",
+            "apkURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/apps/aqytv_7.10_dangbei.apk",
+            "apkMD5": "268484627d46d44e56d8ade08c5520c8"
+        },
+        {
+            "title": "腾讯视频",
+            "iconURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/apps/ic_launcher_tencent_tv.png",
+            "packageName": "com.ktcp.video",
+            "apkURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/apps/yst_2.7.0.1058_dangbei.apk",
+            "apkMD5": "ce49d84f1f1c5051abd3cc3e5a73c82e"
         }
     ],
     "position3": [
         {
-            "type": "PICTURE",
-            "title": "ad1",
-            "description": "ad1",
-            "playTime": 10000,
-            "picURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/ad_1_normal.jpg",
-            "picMD5": "9bd83cc4c6143bda617daae26ea66b77"
+            "title": "斗鱼TV",
+            "iconURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/apps/ic_launcher_douyu_tv.png",
+            "packageName": "com.douyu.xl.douyutv",
+            "apkURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/apps/douyu_1.1.7_dangbei.apk",
+            "apkMD5": "cbf6015482ba6c2c12269394507ba727"
         }
     ],
     "position4": [
         {
-            "type": "PICTURE",
-            "title": "ad1",
-            "description": "ad1",
-            "playTime": 10000,
-            "picURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/ad_1_normal.jpg",
-            "picMD5": "9bd83cc4c6143bda617daae26ea66b77"
+            "title": "文件管理",
+            "iconURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/apps/ic_launcher_file_mgr.png",
+            "packageName": "com.chaozhuo.filemanager",
+            "apkURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/apps/czwjgl_3.1.2_dangbei.apk",
+            "apkMD5": "cbd76b8d09833b4945782c25071e5543"
         }
     ],
     "position5": [
-        {
-            "type": "PICTURE",
-            "title": "ad1",
-            "description": "ad1",
-            "playTime": 10000,
-            "picURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/files/ad_1_normal.jpg",
-            "picMD5": "9bd83cc4c6143bda617daae26ea66b77"
-        }
+        
     ]
 }
