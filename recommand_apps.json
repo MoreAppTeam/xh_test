@@ -44,6 +44,13 @@
             "packageName": "com.morequick.morequicktv",
             "apkURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/apps/com.morequick.morequicktv-1.apk",
             "apkMD5": "58ae68ab8a669bdfb9d79ef30ae2e74d"
+        },
+        {
+            "title": "腾讯视频",
+            "iconURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/apps/ic_launcher_tencent_tv.png",
+            "packageName": "com.ktcp.video",
+            "apkURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/apps/yst_2.7.0.1058_dangbei.apk",
+            "apkMD5": "ce49d84f1f1c5051abd3cc3e5a73c82e"
         }
         
     ],
