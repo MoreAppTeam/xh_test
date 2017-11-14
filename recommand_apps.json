@@ -23,6 +23,20 @@
             "packageName": "com.ktcp.video",
             "apkURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/apps/yst_2.7.0.1058_dangbei.apk",
             "apkMD5": "ce49d84f1f1c5051abd3cc3e5a73c82e"
+        },
+        {
+            "title": "斗鱼TV",
+            "iconURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/apps/ic_launcher_douyu_tv.png",
+            "packageName": "com.douyu.xl.douyutv",
+            "apkURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/apps/douyu_1.1.7_dangbei.apk",
+            "apkMD5": "cbf6015482ba6c2c12269394507ba727"
+        },
+        {
+            "title": "文件管理",
+            "iconURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/apps/ic_launcher_file_mgr.png",
+            "packageName": "com.chaozhuo.filemanager",
+            "apkURL": "https://raw.githubusercontent.com/MoreAppTeam/xh_test/master/apps/czwjgl_3.1.2_dangbei.apk",
+            "apkMD5": "cbd76b8d09833b4945782c25071e5543"
         }
         
     ],
